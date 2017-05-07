@@ -1,7 +1,3 @@
----
-title: 未命名文件 
-tags: 未分类
----
 
 ### 带（假）二维码的资金管理系统
 ![enter description here][1]
