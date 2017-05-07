@@ -1,0 +1,10 @@
+#include"windows.h"
+void main()
+{
+	Sleep(1000);
+	printf("3\n");
+	Sleep(1000);
+	printf("2\n");
+	Sleep(1000);
+	printf("1\n");
+}
